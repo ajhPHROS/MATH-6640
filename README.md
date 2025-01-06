@@ -43,3 +43,8 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 ### Lecture 1
 
+- Why do we need complex numbers?
+- Three thematic examples
+- The algebra of complex numbers
+
+[Notes](notes/lecture_01.pdf)
