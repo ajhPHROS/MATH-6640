@@ -47,4 +47,4 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Three thematic examples
 - The algebra of complex numbers
 
-[Notes](notes/lecture_01.pdf)
+[Notes](notes/lecture_01.pdf) | Chapter 1.1-1.3 (Stein and Shakarchi)
