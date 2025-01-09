@@ -49,4 +49,13 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Three thematic examples
 - The algebra of complex numbers
 
-[Notes](notes/lecture_01.pdf) | Chapter 1.1-1.3 (Stein and Shakarchi)
+[Notes](notes/lecture_01.pdf) | Chapter 1, Section 1 (Stein and Shakarchi)
+
+### Lecture 2
+
+- Functions of a complex variable
+- Differentiating complex functions
+- Cauchy-Riemann equations and power series
+
+[Notes](notes/lecture_02.pdf) | Chapter 1, Section 2 (Stein and Shakarchi) | Visualizing Complex Functions ([article](https://arxiv.org/abs/1007.2295) and [software](https://www.mathworks.com/matlabcentral/fileexchange/44375-phase-plots-of-complex-functions))
+
