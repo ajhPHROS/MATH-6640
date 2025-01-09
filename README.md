@@ -19,6 +19,8 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 **Contact:** hornia3@rpi.edu
 
+**Textbook:** There is no required textbook, however, you may find the "further reading" suggested after each lecture summary below helpful in your studies. These will be drawn from Complex Analysis by Stein & Shaarchi (good high-level theoretical development), Complex Variables: Introduction and Applications (2nd Edition) by Ablowitz and Fokas (focused on applications, especially asymptotics), Applied Complex Variables by Dettman (detailed rigorous treatment of theory and applications). I also highly recommend Elias Wegart's phase plotting [software](https://www.mathworks.com/matlabcentral/fileexchange/44375-phase-plots-of-complex-functions) in MATLAB and his accompanying book as tools for visualizing functions of complex variables.
+
 **Course Tools:** Communicate (announcements, questions, and discussion) through [Piazza](https://piazza.com/). View and submit homework assignments on [Gradescope](https://www.gradescope.com/). The mid-term will be in-class and the final project will be submitted on Gradescope.
 
 **Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (TBD: target February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
@@ -47,4 +49,4 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Three thematic examples
 - The algebra of complex numbers
 
-[Notes](notes/lecture_01.pdf)
+[Notes](notes/lecture_01.pdf) | Chapter 1.1-1.3 (Stein and Shakarchi)
