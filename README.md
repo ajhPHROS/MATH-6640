@@ -15,7 +15,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 **Instructor**: Andrew Horning
 
-**Office Hours:** TBD
+**Office Hours:** Monday/Thursday 12:30-1:30pm in Amos Eaton 329.
 
 **Contact:** hornia3@rpi.edu
 
