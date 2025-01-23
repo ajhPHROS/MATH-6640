@@ -59,7 +59,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 [Notes](notes/lecture_02.pdf) | Chapter 1, Section 2 (Stein and Shakarchi) | Visualizing Complex Functions ([article](https://arxiv.org/abs/1007.2295) and [software](https://www.mathworks.com/matlabcentral/fileexchange/44375-phase-plots-of-complex-functions))
 
-###
+### Lecture 3
 
 - Convergence and differentiability of power series
 - Contour integration in the complex plane
