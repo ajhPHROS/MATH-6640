@@ -37,7 +37,8 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 ## Assignments
 
-- [Homework 1](https://www.gradescope.com/) is due by 5pm on Friday, January 17.
+- [Homework 1](https://www.gradescope.com/) is due by 5pm on Friday, ~~January 17~~ January 24.
+- [Homework 2](https://www.gradescope.com/) is due by 5pm on Friday, January 31.
 
 
 
