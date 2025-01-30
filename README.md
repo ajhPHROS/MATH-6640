@@ -75,3 +75,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Cauchy's integral formula
 
 [Notes](notes/lecture_04.pdf) | Chapter 2.4-2.5 (Ablowitz and Fokas)
+
+### Lecture 5
+
+- Cauchy's integral formulas and their implications
+- Cauchy's inequalities and power series representations
+- Zeros of holomorphic functions and analytic continuation
+
+[Notes](notes/lecture_05.pdf) | Chapter 2, Sections 4-5 (Stein and Shakarchi)
