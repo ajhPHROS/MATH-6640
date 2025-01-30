@@ -68,3 +68,10 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 [Notes](notes/lecture_03.pdf) | Chapter 1, Section 3 and Chapter 2, Sections 1-3 (Stein and Shakarchi)
 
+### Lecture 4
+
+- Cauchy's theorem vs Green's theorem
+- Contour deformation strategies
+- Cauchy's integral formula
+
+[Notes](notes/lecture_04.pdf) | Chapter 2.4-2.5 (Ablowitz and Fokas)
