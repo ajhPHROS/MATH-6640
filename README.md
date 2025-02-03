@@ -37,8 +37,8 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 ## Assignments
 
-- [Homework 1](https://www.gradescope.com/) is due by 5pm on Friday, ~~January 17~~ January 24.
-- [Homework 2](https://www.gradescope.com/) is due by 5pm on Friday, January 31.
+- [Homework 1](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 17~~ Friday, January 24.
+- [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4.
 
 
 
@@ -75,3 +75,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Cauchy's integral formula
 
 [Notes](notes/lecture_04.pdf) | Chapter 2.4-2.5 (Ablowitz and Fokas)
+
+### Lecture 5
+
+- Cauchy's integral formulas and their implications
+- Cauchy's inequalities and power series representations
+- Zeros of holomorphic functions and analytic continuation
+
+[Notes](notes/lecture_05.pdf) | Chapter 2, Sections 4-5 (Stein and Shakarchi)
