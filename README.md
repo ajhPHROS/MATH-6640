@@ -83,3 +83,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Zeros of holomorphic functions and analytic continuation
 
 [Notes](notes/lecture_05.pdf) | Chapter 2, Sections 4-5 (Stein and Shakarchi)
+
+### Lecture 6
+
+- Summary: why are holomorphic functions like Tolstoy's "happy families"?
+- Contour deformation "through" an isolated singularity.
+- Laurent series: expansion around an isolated singularity.
+
+[Notes](notes/lecture_06.pdf) | Chapter 3.3 (Ablowitz and Fokas) and Chapter 3, Section 1 (Stein and Shakarchi).
