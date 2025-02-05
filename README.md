@@ -23,7 +23,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 **Course Tools:** Communicate (announcements, questions, and discussion) through [Piazza](https://piazza.com/). View and submit homework assignments on [Gradescope](https://www.gradescope.com/). The mid-term will be in-class and the final project will be submitted on Gradescope.
 
-**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (TBD: target February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
+**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
 
 **Collaboration and Academic Integrity:** To maximize your learning objectives, reserve time to work on each problem independently before discussing it with your classmates. Always write up the solution on your own and acknowledge your collaborators. Copying solutions directly from peers, books, internet sources, or AI tools is strictly prohibited.
 
