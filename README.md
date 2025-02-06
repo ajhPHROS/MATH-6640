@@ -23,7 +23,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 **Course Tools:** Communicate (announcements, questions, and discussion) through [Piazza](https://piazza.com/). View and submit homework assignments on [Gradescope](https://www.gradescope.com/). The mid-term will be in-class and the final project will be submitted on Gradescope.
 
-**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (TBD: target February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
+**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
 
 **Collaboration and Academic Integrity:** To maximize your learning objectives, reserve time to work on each problem independently before discussing it with your classmates. Always write up the solution on your own and acknowledge your collaborators. Copying solutions directly from peers, books, internet sources, or AI tools is strictly prohibited.
 
@@ -37,9 +37,9 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 ## Assignments
 
-- [Homework 1](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 17~~ Friday, January 24.
+- [Homework 1](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 17~~ Friday, January 24. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/16))
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4.
-
+- [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14.
 
 
 ## Lecture summaries
@@ -83,3 +83,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Zeros of holomorphic functions and analytic continuation
 
 [Notes](notes/lecture_05.pdf) | Chapter 2, Sections 4-5 (Stein and Shakarchi)
+
+### Lecture 6
+
+- Summary: why are holomorphic functions like Tolstoy's "happy families"?
+- Contour deformation "through" an isolated singularity.
+- Laurent series: expansion around an isolated singularity.
+
+[Notes](notes/lecture_06.pdf) | Chapter 3.3 (Ablowitz and Fokas) and Chapter 3, Section 1 (Stein and Shakarchi).
