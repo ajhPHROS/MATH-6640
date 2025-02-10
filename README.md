@@ -87,7 +87,15 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 ### Lecture 6
 
 - Summary: why are holomorphic functions like Tolstoy's "happy families"?
-- Contour deformation "through" an isolated singularity.
-- Laurent series: expansion around an isolated singularity.
+- Contour deformation "through" an isolated singularity
+- Laurent series: expansion around an isolated singularity
 
 [Notes](notes/lecture_06.pdf) | Chapter 3.3 (Ablowitz and Fokas) and Chapter 3, Section 1 (Stein and Shakarchi).
+
+### Lecture 7
+
+- The "nature" of isolated singularities
+- The residue of an isolated singularity
+- The residue theorem
+
+[Notes](notes/lecture_07.pdf) | Chapters 3.5 (up to p. 150), 4.1 (Ablowitz and Fokas) and Chapter 3, Sections 1-3 (Stein and Shakarchi)
