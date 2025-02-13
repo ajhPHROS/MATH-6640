@@ -99,3 +99,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The residue theorem
 
 [Notes](notes/lecture_07.pdf) | Chapters 3.5 (up to p. 150), 4.1 (Ablowitz and Fokas) and Chapter 3, Sections 1-3 (Stein and Shakarchi)
+
+### Lecture 8
+
+- What makes 1/z special?
+- Complex antiderivatives
+- The complex logarithm
+
+[Notes](notes/lecture_08.pdf) | Chapter 3, Section 6 (Stein and Shakarchi)
