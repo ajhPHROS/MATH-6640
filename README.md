@@ -107,3 +107,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The complex logarithm
 
 [Notes](notes/lecture_08.pdf) | Chapter 3, Section 6 (Stein and Shakarchi)
+
+### Lecture 9
+
+- Logarithms, arguments, and winding numbers
+- The argument principle
+- Rouche's theorem
+
+[Notes](notes/lecture_09.pdf) | Chapter 3, Section 4 (Stein and Shakarchi)
