@@ -116,3 +116,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Rouche's theorem
 
 [Notes](notes/lecture_09.pdf) | Chapter 3, Section 4 (Stein and Shakarchi)
+
+### Lecture 10
+
+- Periodic signals and Fourier series
+- Fourier coefficients from equispaced samples
+- The exponentially convergent trapezoid rule
+
+[Notes](notes/lecture_10.pdf) | [The exponentially convergent trapezoidal rule](https://epubs.siam.org/doi/10.1137/130932132) | [Zolotarev's Problems](http://guettel.com/rktoolbox/examples/html/example_zolotarev.html)
