@@ -38,8 +38,9 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 ## Assignments
 
 - [Homework 1](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 17~~ Friday, January 24. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/16))
-- [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4.
+- [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
 - [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14.
+- [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21.
 
 
 ## Lecture summaries
@@ -107,3 +108,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The complex logarithm
 
 [Notes](notes/lecture_08.pdf) | Chapter 3, Section 6 (Stein and Shakarchi)
+
+### Lecture 9
+
+- Logarithms, arguments, and winding numbers
+- The argument principle
+- Rouche's theorem
+
+[Notes](notes/lecture_09.pdf) | Chapter 3, Section 4 (Stein and Shakarchi)
