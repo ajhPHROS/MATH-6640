@@ -39,7 +39,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 - [Homework 1](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 17~~ Friday, January 24. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/16))
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
-- [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14.
+- [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/21))
 - [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21.
 
 
