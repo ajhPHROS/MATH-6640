@@ -124,3 +124,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The exponentially convergent trapezoid rule
 
 [Notes](notes/lecture_10.pdf) | [The exponentially convergent trapezoidal rule](https://epubs.siam.org/doi/10.1137/130932132) | [Zolotarev's Problems](http://guettel.com/rktoolbox/examples/html/example_zolotarev.html)
+
+### Lecture 11
+
+- Trapezoid rules and Discrete Fourier Transforms
+- Reconstructing signals from Fourier coefficients
+- Fourier coefficients of smooth periodic signals
+
+[Notes](notes/lecture_11.pdf)
