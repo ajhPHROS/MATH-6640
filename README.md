@@ -131,4 +131,4 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Reconstructing signals from Fourier coefficients
 - Fourier coefficients of smooth periodic signals
 
-[Notes](notes/lecture_11.pdf)
+[Notes](notes/lecture_11.pdf) | [Demo](demos/trap_quad.m)
