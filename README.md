@@ -132,3 +132,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Fourier coefficients of smooth periodic signals
 
 [Notes](notes/lecture_11.pdf) | [Demo](demos/trap_quad.m)
+
+### Lecture 12
+
+- Fourier series and boundary value problems
+- Differentiation and multiplication of Fourier series
+- Fourier pseudospectral methods
+
+[Notes](notes/lecture_12.pdf)
