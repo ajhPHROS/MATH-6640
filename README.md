@@ -140,3 +140,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - Fourier pseudospectral methods
 
 [Notes](notes/lecture_12.pdf)
+
+### Lecture 13
+
+- Heated ring: Fourier series solution
+- Heated wire: Fourier transform solution
+- The Fourier transform and its inverse
+
+[Notes](notes/lecture_13.pdf)
