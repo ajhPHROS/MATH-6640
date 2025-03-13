@@ -148,3 +148,11 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The Fourier transform and its inverse
 
 [Notes](notes/lecture_13.pdf)
+
+### Lecture 14
+
+- Fourier Inversion
+- Example: Heat Kernel
+- The roles of decay and regularity
+
+[Notes](notes/lecture_14.pdf) | Chapter 4, Section 1 (Stein and Shakarchi)
