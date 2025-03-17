@@ -41,6 +41,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
 - [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/21))
 - [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/23))
+- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21.
 
 
 ## Lecture summaries
@@ -156,3 +157,13 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The roles of decay and regularity
 
 [Notes](notes/lecture_14.pdf) | Chapter 4, Section 1 (Stein and Shakarchi)
+
+### Lecture 15
+
+- Fourier inversion theorems
+- A complex analytic proof 
+- Bandlimited functions
+
+[Notes])(notes/lecture_15.pdf) | Chapter 4, Section 2 (Stein and Shakarchi)
+
+
