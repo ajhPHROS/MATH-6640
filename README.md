@@ -164,6 +164,6 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - A complex analytic proof 
 - Bandlimited functions
 
-[Notes])(notes/lecture_15.pdf) | Chapter 4, Section 2 (Stein and Shakarchi)
+[Notes](notes/lecture_15.pdf) | Chapter 4, Section 2 (Stein and Shakarchi)
 
 
