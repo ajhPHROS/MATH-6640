@@ -33,6 +33,38 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 ## Final Project
 
+Instead of a final exam, write an 8-10 page report that reviews a topic in complex analysis or integral transforms. The scope of the report must extend beyond material covered in lecture or on problem sets. Your report should include three basic elements:
+>
+> *Review*: Why is this topic interesting, what is its history, and what are
+the important publications and references? (A reasonably comprehensive bibliography is
+expected: not just the sources you happened to consult, but a curated collection of materials that you could recommend to a peer who wanted to learn more.)
+>
+> *Technical Survey*: A concise description of the key mathematical question(s), technique(s), and/or result(s) connected to your topic. This should be written in clear and precise mathematical language, at a level accessible to your peers in this class.
+> 
+> *Examples*: Illustrate the basic principles (problems, techniques, results) with concrete examples. These could be introduced within the technical survey portion to illustrate key concepts or placed in a separate section (or both). Graphical illustrations are highly encouraged when possible. Computational experiments are also encouraged if appropriate for your topic (but not required). 
+
+Below are a few broad areas to explore for your project, with modern references on specific topics to help you get started.
+* Contour Integral methods in Numerical Linear Algebra
+    - [FEAST Eigensolver](https://www.feast-solver.org/references.htm).
+    - [Matrix Functions](https://epubs.siam.org/doi/10.1137/070700607).
+    - [PDE Solvers](https://www.chebfun.org/examples/ode-linear/ContourExpm.html). Check out this Chebfun example and references at the end.
+* Riemann--Hilbert Problems
+    - [Intro to R-H Problems and Computation](https://epubs.siam.org/doi/book/10.1137/1.9781611974201).
+    - [Inverse Scattering Transforms](https://epubs.siam.org/doi/book/10.1137/1.9781611970883).
+* Analytic Continuation
+    - [Stable Extrapolation of Analytic Functions](https://link.springer.com/article/10.1007/s10208-018-9384-1).
+    - [Quantifying Ill-Conditioning in Analytic Continuation](https://dl.acm.org/doi/10.1007/s10543-020-00802-7).
+    - [Analytic Continuation by Rational Approximation](https://link.springer.com/article/10.1007/s13160-023-00599-2).
+* Conformal Mapping
+    - [Fluid Flows](https://www.baddoo.co.uk/research-peter-j.-baddoo-s-academic-website.html). This is a beautiful collection of explainer videos and research articles from Peter Baddoo, whose recent thesis on this topic was awarded the "Best Thesis Award" by the UK Fluids Network and published as a book by Springer. You may also want to check out his former PhD advisor's work, Lorna Ayton at University of Cambridge.)
+    - [Computing Conformal Maps](https://www.chebfun.org/examples/complex/ConformalMapping.html). Check out the references at the end of this Chebfun example along with Toby Driscoll's [Schwarz-Christoffel toolbox](https://tobydriscoll.net/project/sc-toolbox/).
+* Potential Theory
+    - [Zolotarev's Problems](http://guettel.com/rktoolbox/examples/html/example_zolotarev.html).
+    - [Potential Theory and Rational Approximation](https://arxiv.org/abs/2501.00902).
+    - [Low-Rank Solutions to Matrix Equations](https://epubs.siam.org/doi/10.1137/19M1244433).
+    - [Convergence of Lanczos Eigensolver](https://epubs.siam.org/doi/10.1137/S089547989935527X). 
+
+
 
 
 ## Assignments
@@ -41,6 +73,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
 - [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/21))
 - [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/23))
+- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21.
 
 
 ## Lecture summaries
@@ -156,3 +189,13 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 - The roles of decay and regularity
 
 [Notes](notes/lecture_14.pdf) | Chapter 4, Section 1 (Stein and Shakarchi)
+
+### Lecture 15
+
+- Fourier inversion theorems
+- A complex analytic proof 
+- Bandlimited functions
+
+[Notes](notes/lecture_15.pdf) | Chapter 4, Section 2 (Stein and Shakarchi)
+
+
