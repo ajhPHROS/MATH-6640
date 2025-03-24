@@ -202,12 +202,12 @@ Below are a few broad areas to explore for your project, with modern references 
 
 - Analytic continuation via Fourier transform
 - Which functions are bandlimited? Which functions are "nearly" bandlimited?
-- Paley-Weiner Theorem
+- Paley-Wiener Theorem
 
 [Notes](notes/lecture_16.pdf) | Chapter 4, Section 3 (Stein and Shakarchi)
 
 ### Lecture 17
-- Proof of Paley-Weiner Theorem
+- Proof of Paley-Wiener Theorem
 - Where and when do entire functions "blow up"?
 - Phragmen-Lindelof Theorem
 
