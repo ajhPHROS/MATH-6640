@@ -212,3 +212,17 @@ Below are a few broad areas to explore for your project, with modern references 
 - Phragmen-Lindelof Theorem
 
 [Notes](notes/lecture_17.pdf) | Chapter 4, Section 3 (Stein and Shakarchi)
+
+### Lecture 18
+- Hardy's Uncertainty Principle
+- Application to quantum particle
+- Three challenge problems
+
+[Notes](notes/lecture_18.pdf) | Chapter 4, Exercise 12 and Problem 3
+
+### Lecture 19
+- Extrapolation and model complexity
+- Extrapolation of analytic functions
+- Stable extrapolation of analytic functions
+
+[Notes](notes/lecture_19.pdf) | See Trefethen's ["Quantifying the ill-conditioning of analytic continuation"](https://link.springer.com/article/10.1007/s10543-020-00802-7) for a clear and concise treatment of analytic continuation from inexact data using Hadamard's "Three Lines Lemma." See Demanet and Townsend's ["Stable extrapolation of analytic functions"](https://link.springer.com/article/10.1007/s10208-018-9384-1) for an analysis of extrapolation from noisy samples using Chebyshev polynomials.
