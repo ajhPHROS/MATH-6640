@@ -198,4 +198,17 @@ Below are a few broad areas to explore for your project, with modern references 
 
 [Notes](notes/lecture_15.pdf) | Chapter 4, Section 2 (Stein and Shakarchi)
 
+### Lecture 16
 
+- Analytic continuation via Fourier transform
+- Which functions are bandlimited? Which functions are "nearly" bandlimited?
+- Paley-Wiener Theorem
+
+[Notes](notes/lecture_16.pdf) | Chapter 4, Section 3 (Stein and Shakarchi)
+
+### Lecture 17
+- Proof of Paley-Wiener Theorem
+- Where and when do entire functions "blow up"?
+- Phragmen-Lindelof Theorem
+
+[Notes](notes/lecture_17.pdf) | Chapter 4, Section 3 (Stein and Shakarchi)
