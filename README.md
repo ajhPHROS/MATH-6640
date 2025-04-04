@@ -226,3 +226,10 @@ Below are a few broad areas to explore for your project, with modern references 
 - Stable extrapolation of analytic functions
 
 [Notes](notes/lecture_19.pdf) | See Trefethen's ["Quantifying the ill-conditioning of analytic continuation"](https://link.springer.com/article/10.1007/s10543-020-00802-7) for a clear and concise treatment of analytic continuation from inexact data using Hadamard's "Three Lines Lemma." See Demanet and Townsend's ["Stable extrapolation of analytic functions"](https://link.springer.com/article/10.1007/s10208-018-9384-1) for an analysis of extrapolation from noisy samples using Chebyshev polynomials.
+
+### Lecture 20
+- The harmonic oscillator in the Fourier domain
+- Constructing solutions in the complex Fourier domain
+- Solution operators and Green's functions
+
+[Notes](notes/lecture_20.pdf)
