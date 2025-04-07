@@ -234,3 +234,10 @@ Below are a few broad areas to explore for your project, with modern references 
 - Solution operators and Green's functions
 
 [Notes](notes/lecture_20.pdf)
+
+### Lecture 21
+- Green's functions for the harmonic oscillator
+- The homogeneous equation and families of Green's functions
+- Causal and anti-causal Green's functions
+
+[Notes](notes/lecture_21.pdf) | See Chapter 8.5 in Dettman for a more detailed description of Fourier transform solutions to constant-coefficient ODEs. See Chapter 7.3 in Introduction to Partial Differential Equations by Olver for another concise illustration of these techniques. 
