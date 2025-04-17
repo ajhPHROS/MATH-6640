@@ -240,4 +240,25 @@ Below are a few broad areas to explore for your project, with modern references 
 - The homogeneous equation and families of Green's functions
 - Causal and anti-causal Green's functions
 
-[Notes](notes/lecture_21.pdf) | See Chapter 8.5 in Dettman for a more detailed description of Fourier transform solutions to constant-coefficient ODEs. See Chapter 7.3 in Introduction to Partial Differential Equations by Olver for another concise illustration of these techniques. 
+[Notes](notes/lecture_21.pdf) | See Chapter 8.5 in Dettman for a more detailed description of Fourier transform solutions to constant-coefficient ODEs. See Chapter 7.3 in Introduction to Partial Differential Equations by Olver for another concise illustration of these techniques.
+
+### Lecture 22
+- The physics of anti-causal solutions
+- Green's functions in the Fourier domain
+- Poles, Contours, and Causality
+
+[Notes](notes/lecture_22.pdf)
+
+### Lecture 23
+- Homogeneous solutions and auxillary conditions
+- Homogeneous solutions and residues
+- Contour selection for auxillary conditions
+
+[Notes](notes/lecture_23.pdf)
+
+### Lecture 24
+- Linear constant coefficient differential operators
+- The Laplace transform and initial value problems
+- The Bromwich contour and the inverse Laplace transform
+
+[Notes](notes/lecture_24.pdf)
