@@ -73,8 +73,8 @@ Below are a few broad areas to explore for your project, with modern references 
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
 - [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/21))
 - [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/23))
-- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21.
-- [Homework 6](https://www.gradescope.com/) is due by 5pm on Friday, April 11.
+- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/34))
+- [Homework 6](https://www.gradescope.com/) is due by 5pm on Friday, April 11. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/37))
 
 
 ## Lecture summaries
