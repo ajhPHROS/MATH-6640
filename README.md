@@ -23,7 +23,7 @@ This is the main repository of course materials for MATH 6640 at RPI, Spring 202
 
 **Course Tools:** Communicate (announcements, questions, and discussion) through [Piazza](https://piazza.com/). View and submit homework assignments on [Gradescope](https://www.gradescope.com/). The mid-term will be in-class and the final project will be submitted on Gradescope.
 
-**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (February 27), 30% final project (TBD: target April 21). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
+**Grading:** 40% homework (due weekly on Friday at 5pm), 30% mid-term (February 27), 30% final project (April 23). Problem sets must be submitted to Gradescope before the deadline on the due date. Regrade requests can be made on Gradescope within one week after grades are published.
 
 **Collaboration and Academic Integrity:** To maximize your learning objectives, reserve time to work on each problem independently before discussing it with your classmates. Always write up the solution on your own and acknowledge your collaborators. Copying solutions directly from peers, books, internet sources, or AI tools is strictly prohibited.
 
@@ -73,8 +73,8 @@ Below are a few broad areas to explore for your project, with modern references 
 - [Homework 2](https://www.gradescope.com/) is due by 5pm on ~~Friday, January 31~~ Tuesday, February 4. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/19))
 - [Homework 3](https://www.gradescope.com/) is due by 5pm on Friday, February 14. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/21))
 - [Homework_4](https://www.gradescope.com/) is due by 5pm on Friday, February 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/23))
-- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21.
-- [Homework 6](https://www.gradescope.com/) is due by 5pm on Friday, April 11.
+- [Homework 5](https://www.gradescope.com/) is due by 5pm on Friday, March 21. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/34))
+- [Homework 6](https://www.gradescope.com/) is due by 5pm on Friday, April 11. ([Solutions](https://piazza.com/class/m5lfztaq95l2tl/post/37))
 
 
 ## Lecture summaries
@@ -240,4 +240,25 @@ Below are a few broad areas to explore for your project, with modern references 
 - The homogeneous equation and families of Green's functions
 - Causal and anti-causal Green's functions
 
-[Notes](notes/lecture_21.pdf) | See Chapter 8.5 in Dettman for a more detailed description of Fourier transform solutions to constant-coefficient ODEs. See Chapter 7.3 in Introduction to Partial Differential Equations by Olver for another concise illustration of these techniques. 
+[Notes](notes/lecture_21.pdf) | See Chapter 8.5 in Dettman for a more detailed description of Fourier transform solutions to constant-coefficient ODEs. See Chapter 7.3 in Introduction to Partial Differential Equations by Olver for another concise illustration of these techniques.
+
+### Lecture 22
+- The physics of anti-causal solutions
+- Green's functions in the Fourier domain
+- Poles, Contours, and Causality
+
+[Notes](notes/lecture_22.pdf)
+
+### Lecture 23
+- Homogeneous solutions and auxillary conditions
+- Homogeneous solutions and residues
+- Contour selection for auxillary conditions
+
+[Notes](notes/lecture_23.pdf)
+
+### Lecture 24
+- Linear constant coefficient differential operators
+- The Laplace transform and initial value problems
+- The Bromwich contour and the inverse Laplace transform
+
+[Notes](notes/lecture_24.pdf)
