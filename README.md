@@ -261,4 +261,11 @@ Below are a few broad areas to explore for your project, with modern references 
 - The Laplace transform and initial value problems
 - The Bromwich contour and the inverse Laplace transform
 
-[Notes](notes/lecture_24.pdf)
+[Notes](notes/lecture_24.pdf) | Chapter 9, Sections 1 and 2 (Dettman)
+
+### Lecture 25
+- Fourier analysis vs. Laplace analysis
+- Structure of solutions in Laplace domain
+- Linear Time Invariant (LTI) systems
+
+[Notes](notes/lecture_25.pdf) | Chapter 9, Sections 3 and 4 (Dettman)
